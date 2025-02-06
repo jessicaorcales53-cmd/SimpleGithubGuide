@@ -27,18 +27,18 @@
 - See status of the git repository
 	- *git status*
 - Add files for staging
-	- *git add \<filename\>* | add single file
-	- *git add -A* | add all files
+	- *git add \<filename\>* ||| add single file
+	- *git add -A* ||| add all files
 - Commit changes
 	- *git commit -m "\<describe change\>"*
 - See branches
-	- *git branch* | for local branches
-	- *git branch -r* | for remote branches
-	- *git branch -a* | for all branches
+	- *git branch* ||| for local branches
+	- *git branch -r* ||| for remote branches
+	- *git branch -a* ||| for all branches
 - Change branch
 	- *git checkout \<branch you want to change to\>*
 - See commit log
-	- git log
+	- *git log*
 - Merge two branches
 	- *git merge <branch you want to merge into the branch you are in>*
 
